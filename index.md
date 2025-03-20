@@ -33,4 +33,4 @@ If you have any questions or concerns about this Privacy Policy or our practices
 adam3fakir@gmail.com 
 
 
-By using our App, you signify your acceptance of this Privacy Policy. If you do not agree to this policy, please do not use our App. \n
+By using our App, you signify your acceptance of this Privacy Policy. If you do not agree to this policy, please do not use our App.
