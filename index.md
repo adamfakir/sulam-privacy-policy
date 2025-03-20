@@ -5,11 +5,16 @@ Last Updated: March 20, 2025
 Introduction 
 We are committed to protecting your personal information and your right to privacy. This Privacy Policy describes how we collect, use, and safeguard the information you provide when using our app (“the App”).
 
-Information We Collect 
+Information We Collect
+
 	•	Full Name: We use your full name to display in the App.
+ 
 	•	If you are a teacher, your full name may be visible to all users. 
+ 
 	•	If you are a member, your full name is only visible to administrators and/or teachers you specifically interact with in the App. 
+ 
 	•	Email Address: We use your email address as your login credential and to provide account-related functionalities. Your email address is not displayed publicly to other users. 
+ 
 
 We do not collect any additional personal information beyond what is stated above.
 
