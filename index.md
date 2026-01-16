@@ -1,6 +1,6 @@
-Privacy Policy 
+Privacy Policy - Sullam Tracker - AB-Labs
 
-Last Updated: March 20, 2025
+Last Updated: March 20, 2025, with minor changes Jan 15, 2026
 
 Introduction 
 We are committed to protecting your personal information and your right to privacy. This Privacy Policy describes how we collect, use, and safeguard the information you provide when using our app (“the App”).
